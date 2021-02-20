@@ -24,7 +24,7 @@ Link to hosted webmap: file:///D:/UW%20Class/WINTER%202021/GEOG458/Map-Design-an
 - Zoom Levels: Max Zoom - 14; Min Zoom - 10
 
 ## Tile 4 Screenshot - UW Style Roadmap
-![Map Image](img/SonicsTileTheme.png)
+![Map Image](img/SonicsTileTheme.PNG)
 
 - Description of Tile: Map tile made using the color scheme from UW to highlight the characteristics of UW.
 - Geographic Area of Focus: Seattle, WA and surrounding municipalities
