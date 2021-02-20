@@ -1,6 +1,6 @@
 # Map-Design-and-Tile-Generation
 
-Link to hosted webmap: https://github.com/Yuke295/Map-Design-and-Tile-Generation/
+Link to hosted webmap: https://yuke295.github.io/Map-Design-and-Tile-Generation/
 
 ## Tile 1 Screenshot - Modified Basemap
 ![Map Image](img/basemap.PNG)
