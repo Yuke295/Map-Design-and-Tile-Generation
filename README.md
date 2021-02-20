@@ -1,6 +1,6 @@
 # Map-Design-and-Tile-Generation
 
-Link to hosted webmap: https://tpmccrea.github.io/GEOG458_Lab4/
+Link to hosted webmap: file:///D:/UW%20Class/WINTER%202021/GEOG458/Map-Design-and-Tile-Generation/index.html
 
 ## Tile 1 Screenshot - Modified Basemap
 ![Map Image](img/basemap.PNG)
